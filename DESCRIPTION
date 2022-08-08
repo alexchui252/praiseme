@@ -1,0 +1,9 @@
+Package: praiseme
+Type: Package
+Title: A package to disseminate praise
+Version: 0.1.0
+Author: Alex Chui
+Maintainer: Alex Chui <ac4809@columbia.edu>
+Description: This package praises the user when they need it
+License: MIT
+Encoding: UTF-8
