@@ -1,10 +1,14 @@
 Package: praiseme
-Type: Package
-Title: A package to disseminate praise
-Version: 0.1.0
-Author: Alex Chui
-Maintainer: Alex Chui <ac4809@columbia.edu>
-Description: This package praises the user when they need it
+Title: Praise the User
+Version: 0.99.0
+Date: 2022-08-08
+Authors@R: 
+    person("Alex", "Chui", , "ac4809@columbia.edu", role = c("aut", "cre"))
+Description: Says something nice about the given name
 License: MIT
+URL: 
+BugReports: https://support.bioconductor.org/t/praiseme
+biocViews: Software
 Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
