@@ -7,3 +7,4 @@ Maintainer: Alex Chui <ac4809@columbia.edu>
 Description: This package praises the user when they need it
 License: MIT
 Encoding: UTF-8
+RoxygenNote: 7.2.1
